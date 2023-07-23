@@ -1,4 +1,4 @@
-# nitrus
+# Nitrus
 Instruções para executar o código:
 Instale o JDK e o JRE em seu sistema. Você pode baixá-los a partir do site oficial da Oracle ou de outras fontes confiáveis.
 
